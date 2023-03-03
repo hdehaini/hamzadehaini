@@ -12,9 +12,9 @@ Web Developer
 *   [Skills](#skills)
 *   [Experience](#experience)
 *   [Projects](#projects)
-*   [](https://www.linkedin.com/in/hamzadehaini/)
-*   [](https://github.com/hdehaini)
-*   [](https://resume.creddle.io/resume/77e1dkok4gx)
+*   [LinkedIn](https://www.linkedin.com/in/hamzadehaini/)
+*   [GitHub](https://github.com/hdehaini)
+*   [Resume](https://resume.creddle.io/resume/77e1dkok4gx)
 
 Top
 
